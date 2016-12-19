@@ -15,3 +15,7 @@ permalink: /doc/
 ## Test protocol
 
 [Test protocol]({{ site.baseurl }}/doc/test-protocol.pdf)
+
+## Poster
+
+[Project poster]({{ site.baseurl }}/doc/poster.pdf)
